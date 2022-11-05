@@ -1,3 +1,4 @@
 # Welcome to my portfolio!
-## My name id Idris Adam.
+## My name is Idris Adam.
+### I am extremly passionate about Information Technology.
 
